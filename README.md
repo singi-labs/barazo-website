@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barazo-forum/.github/main/assets/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barazo-forum/.github/main/assets/logo-light.svg">
-  <img alt="Barazo Logo" src="https://raw.githubusercontent.com/barazo-forum/.github/main/assets/logo-dark.svg" width="120">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/singi-labs/.github/main/assets/logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/singi-labs/.github/main/assets/logo-light.svg">
+  <img alt="Barazo Logo" src="https://raw.githubusercontent.com/singi-labs/.github/main/assets/logo-dark.svg" width="120">
 </picture>
 
 # Barazo Website
@@ -19,7 +19,7 @@
 
 ## Overview
 
-The public-facing site for the Barazo project. Will host marketing pages, pricing, comparisons, blog, and user/admin documentation. API reference documentation is served separately by [barazo-api](https://github.com/barazo-forum/barazo-api) at its `/docs` endpoint (auto-generated from code).
+The public-facing site for the Barazo project. Will host marketing pages, pricing, comparisons, blog, and user/admin documentation. API reference documentation is served separately by [barazo-api](https://github.com/singi-labs/barazo-api) at its `/docs` endpoint (auto-generated from code).
 
 **Status:** This repository is scaffolded but not yet implemented. It contains repository configuration files (`.gitignore`, PR template, security policy, CLA workflow) but no application code. Implementation is planned for a later phase.
 
@@ -67,18 +67,18 @@ The public-facing site for the Barazo project. Will host marketing pages, pricin
 
 | Repository | Description | License |
 |------------|-------------|---------|
-| [barazo-api](https://github.com/barazo-forum/barazo-api) | AppView backend (Fastify, firehose, REST API) | AGPL-3.0 |
-| [barazo-web](https://github.com/barazo-forum/barazo-web) | Forum frontend (Next.js, Tailwind) | MIT |
-| [barazo-lexicons](https://github.com/barazo-forum/barazo-lexicons) | AT Protocol lexicon schemas + generated types | MIT |
-| [barazo-deploy](https://github.com/barazo-forum/barazo-deploy) | Docker Compose deployment templates | MIT |
+| [barazo-api](https://github.com/singi-labs/barazo-api) | AppView backend (Fastify, firehose, REST API) | AGPL-3.0 |
+| [barazo-web](https://github.com/singi-labs/barazo-web) | Forum frontend (Next.js, Tailwind) | MIT |
+| [barazo-lexicons](https://github.com/singi-labs/barazo-lexicons) | AT Protocol lexicon schemas + generated types | MIT |
+| [barazo-deploy](https://github.com/singi-labs/barazo-deploy) | Docker Compose deployment templates | MIT |
 
 ---
 
 ## Community
 
 - **Website:** [barazo.forum](https://barazo.forum)
-- **Discussions:** [GitHub Discussions](https://github.com/orgs/barazo-forum/discussions)
-- **Issues:** [Report bugs](https://github.com/barazo-forum/barazo-website/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/orgs/singi-labs/discussions)
+- **Issues:** [Report bugs](https://github.com/singi-labs/barazo-website/issues)
 
 ---
 
